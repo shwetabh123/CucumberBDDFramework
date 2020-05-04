@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: MyRunner.HookRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 317.861 sec - in MyRunner.HookRunner
